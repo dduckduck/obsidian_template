@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"593d71619f2bfa2e","type":"text","text":"```dataviewjs\ndv.span(\"hola\");\n```\n","x":-120,"y":-380,"width":320,"height":120},
+		{"id":"4102500684786847","type":"file","file":"7. Trash/Untitled.md","x":-1160,"y":-920,"width":880,"height":1320}
+	],
+	"edges":[]
+}

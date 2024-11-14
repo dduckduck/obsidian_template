@@ -1,0 +1,312 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Templates/Daily note.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Daily note"
+            }
+          },
+          {
+            "id": "cb6d58a3bff79717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Obsidian/Data/Notes overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes overview"
+            }
+          },
+          {
+            "id": "efbb1d49d58cc232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Raw notes/Something relevant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Something relevant"
+            }
+          },
+          {
+            "id": "ec4e505b166c6c9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Obsidian/Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "4cb71ba179117c4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Diary/Weekly/W46_2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W46_2024"
+            }
+          },
+          {
+            "id": "161947fa502b51ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Obsidian/Data/Task Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task Overview"
+            }
+          },
+          {
+            "id": "113eb498eea762fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Diary/Daily/Monday 11-11-2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monday 11-11-2024"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6f6ff10814bf7a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7045aa9a836e33c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aa318d209c68346",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d41a05c73233ba79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:daily_note",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce45566a6641586c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "e430c7b8267df577",
+    "type": "split",
+    "children": [
+      {
+        "id": "007991a0be067a75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9378b4635aa7a488",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Diary/Weekly/S44.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for S44"
+            }
+          },
+          {
+            "id": "91de6d2bd133dd4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Diary/Weekly/S44.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from S44"
+            }
+          },
+          {
+            "id": "912eb6a00a00a44d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8a4b533858e7ae35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Templates/Daily note.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Daily note"
+            }
+          },
+          {
+            "id": "e2205affc5058a76",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "ec4e505b166c6c9a",
+  "lastOpenFiles": [
+    "4. Diary/Daily/Wednesday 13-11-2024.md",
+    "7. Obsidian/Dashboard.md",
+    "4. Diary/Daily/Tuesday 12-11-2024.md",
+    "4. Diary/Daily/Monday 11-11-2024.md",
+    "2. Raw notes/Something relevant.md",
+    "2. Raw notes/Why anime sucks.md",
+    "1. MOC's/1.2 Docker MOC.md",
+    "1. MOC's/1.1 General.md",
+    "6. Templates/Daily note.md",
+    "4. Diary/Weekly/W46_2024.md",
+    "6. Templates/Weekly note.md",
+    "7. Obsidian/Data/Task Overview.md",
+    "5. Resources/Pasted image 20241105175114.png",
+    "7. Obsidian/Data/Notes overview.md",
+    "4. Diary/Weekly/W45_2024.md",
+    "4. Diary/Daily/Friday 01-11-2024.md",
+    "4. Diary/Weekly/W44_2024.md",
+    "4. Diary/Weekly/W43_2024.md",
+    "3. Topics/Anime/Attack on titan.md",
+    "3. Topics/Linux/How to quit vim.md",
+    "3. Topics/Anime",
+    "3. Topics/Untitled.md",
+    "8. Trash/Untitled.md",
+    "8. Trash/Monthly note.md",
+    "4. Diary/Dashboard.md",
+    "6. Templates/Monthly note.md",
+    "8. Trash/Daily note mejorando.md",
+    "8. Trash/dashboard pruebas.md",
+    "4. Diary/Yearly",
+    "4. Diary/Monthly",
+    "7. Obsidian/Data",
+    "Dashboard.canvas",
+    "7. Obsidian",
+    "Diary/Weekly",
+    "Diary",
+    "5. Resources/Pasted image 20241105175037.png",
+    "5. Resources/Pasted image 20241105174141.png",
+    "5. Resources/Pasted image 20241105174132.png",
+    "5. Resources/Pasted image 20241105174119.png",
+    "5. Resources/Pasted image 20241105174109.png",
+    "5. Resources/Pasted image 20241105174055.png",
+    "5. Resources/Pasted image 20241105174045.png",
+    "5. Resources/Pasted image 20241105174035.png",
+    "5. Resources/Pasted image 20241105174020.png",
+    "Uni",
+    "3. Topics/Linux",
+    "3. Topics/Anime"
+  ]
+}
